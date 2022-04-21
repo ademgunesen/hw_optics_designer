@@ -1,0 +1,536 @@
+{
+    "version": 2,
+    "objs": [
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": -20,
+                "y": 100,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": -20,
+                "y": -100,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": -20,
+                "y": 100,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 100,
+                "y": 100,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": -20,
+                "y": -100,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 100,
+                "y": -100,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 160,
+                "y": 80,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 100,
+                "y": 100,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 160,
+                "y": -80,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 100,
+                "y": -100,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 180,
+                "y": 60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 160,
+                "y": 80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 180,
+                "y": -60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 160,
+                "y": -80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 200,
+                "y": 20.0,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 180,
+                "y": 60,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 200,
+                "y": -20.0,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 180,
+                "y": -60,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "lens",
+            "p1": {
+                "type": 1,
+                "x": 200,
+                "y": -20.0,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 200,
+                "y": 20.0,
+                "exist": "true"
+            },
+            "p": 200
+        },
+        {
+            "type": "radiant",
+            "x": 200,
+            "y": 20.0,
+            "p": 0
+        },
+        {
+            "type": "radiant",
+            "x": 200,
+            "y": -20.0,
+            "p": 0
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": -90,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": -70,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": -50,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": -30,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": -10,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": 10,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": 30,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": 50,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": 70,
+            "p": 0.5
+        },
+        {
+            "type": "radiant",
+            "x": 0,
+            "y": 90,
+            "p": 0.5
+        },
+        {
+            "type": "lens",
+            "p1": {
+                "type": 1,
+                "x": 460,
+                "y": -200,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 460,
+                "y": 200,
+                "exist": "true"
+            },
+            "p": 250.0
+        },
+        {
+            "type": "radiant",
+            "x": 6960.0000000000055,
+            "y": -500.00000000000045,
+            "p": 0
+        },
+        {
+            "type": "radiant",
+            "x": 6960.0000000000055,
+            "y": 500.00000000000045,
+            "p": 0
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": -60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": -80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": 60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": 80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": -80,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": -80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": 80,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": 80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": 60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": 60,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": -60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": -60,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": 40,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": 80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": -40,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6880.0000000000055,
+                "y": -80,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "lens",
+            "p1": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": -60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 6820.0000000000055,
+                "y": 60,
+                "exist": "true"
+            },
+            "p": 193.6608557844691
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7120.0000000000055,
+                "y": -120,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": -120,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7120.0000000000055,
+                "y": 120,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": 120,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": -60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": -120,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": 60,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7020.0000000000055,
+                "y": 120,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7120.0000000000055,
+                "y": -200,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7120.0000000000055,
+                "y": 200,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7140.0000000000055,
+                "y": -200,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7140.0000000000055,
+                "y": 200,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7120.0000000000055,
+                "y": 200,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7140.0000000000055,
+                "y": 200,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "blackline",
+            "p1": {
+                "type": 1,
+                "x": 7120.0000000000055,
+                "y": -200,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 7140.0000000000055,
+                "y": -200,
+                "exist": "true"
+            }
+        },
+        {
+            "type": "ruler",
+            "p1": {
+                "type": 1,
+                "x": 0,
+                "y": 300,
+                "exist": "true"
+            },
+            "p2": {
+                "type": 1,
+                "x": 2000,
+                "y": 300,
+                "exist": "true"
+            }
+        }
+    ],
+    "mode": "light",
+    "rayDensity_light": 0.5,
+    "rayDensity_images": 1,
+    "observer": "null",
+    "origin": {
+        "x": 40,
+        "y": 200
+    },
+    "scale": 0.7
+}
